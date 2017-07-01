@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Telugu Didcot Association (TAD)
+Telugu Association Didcot (TAD)
 
 ![TAD Family Fund Day](https://raw.githubusercontent.com/tadfamilyfunevent/tadfamilyfunevent.github.io/master/_images/tad.jpeg){:class="img-responsive"}
 
