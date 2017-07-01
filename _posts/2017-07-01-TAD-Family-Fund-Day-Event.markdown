@@ -28,15 +28,14 @@ No Discrimination, elder to younger, men to women, on that day we are a team aga
 for each game Team captains will change but team organiser will be selected randomly
 Teams will be selected randomly
 
-##Games
+## Games
 
-###Tug of War
+### Tug of War
 ![Tug of War](https://photos.travelblog.org/Photos/28984/129630/f/900611-tug-of-war-the-indian-side-0.jpg){:class="img-responsive"}
 
 Draws will be taken for the matches between teams to play the Tug of war .. No Rules !!!!! Just Pull it ..
 
-
-###Dum Laga Ke Haisha
+### Dum Laga Ke Haisha
 This game is played between teams, No limit on number of people to participate from Teams, only Adults... Couples only
 
 ![Dum Laga Ke Haisha](http://images.mid-day.com/images/2015/feb/25Bhumi-Ayushmann.jpg){:class="img-responsive"}
