@@ -7,9 +7,11 @@ categories: TAD
 image_path: /_images/
 ---
 # TAD Family Fun Event
-Apoligies as we don't have much time we are writing not writing this in Telugu.
+Apoligies, as we don't have much time we are writing not writing this in Telugu.
 
-At the heart of Innovative grounds of Harwell we are celebrating our Family Fun day.
+![TAD Family Fund Day](https://raw.githubusercontent.com/tadfamilyfunevent/tadfamilyfunevent.github.io/master/_images/e0a9cef2-428a-4284-b4c1-fece673508cc.jpeg){:class="img-responsive"}
+
+At the heart of Innovative grounds of Harwell, We are celebrating our Family Fun day.
 
 What we have on that day
 
