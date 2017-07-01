@@ -9,7 +9,7 @@
 title: TAD Family Fun Day Event
 email: tadfamilyfunevent@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Telugu Didcot Association Family Fun Event on 9th July 2017 Details
+  Telugu Didcot Association Family Fun Event on 9th July 2017 Details.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tadfamilyfunevent.github.io" # the base hostname & protocol for your site
 
