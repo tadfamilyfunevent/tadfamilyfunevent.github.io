@@ -19,7 +19,7 @@ What we have on that day
 
 No Discrimination, elder to younger, men to women, on that day we are a team against another Team
 
-##Team Names
+## Team Names
 - Satavahanas
 - Pallavas
 - Cholas
