@@ -29,7 +29,7 @@ No Discrimination, elder to younger, men to women, on that day we are a team aga
 Teams members are selected already, if you don't know your team please contact us.
 
 # Games
- Point for each game and performances,
+ Points for each game and performances,
 
   - Winners:          +10 points
   - Runner Ups:       +5 points
