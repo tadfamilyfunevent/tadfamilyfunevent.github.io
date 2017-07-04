@@ -72,7 +72,7 @@ Team Dance or Couple Dance or Kids dances are allowed
 # Kids Activities
 
 #### Bike Race
-Please bring your kids scooters for bike race, this is just for fun everyone will get Super Star Stickers
+Please bring your kids bikes for a fun race
 
 ![Kids Bike race](https://havefunbiking.com/wp-content/uploads/NSBike2013kids4.jpg){:class="img-responsive"}
 
