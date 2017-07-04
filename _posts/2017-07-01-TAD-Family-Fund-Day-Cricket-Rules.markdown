@@ -18,7 +18,7 @@ image_path: /_images/
  - Singles, doubles etc. as normal but a Straight six or a Straight 4 will give you double runs (just to make the game bit more exciting). Wides, Noballs will cost the team 2 runs for each extra. No free hits sorry, already is a decent penalty for extras and also it has to be fair competition between bat and bowl.
 
 
-### Tournament format
+### Tournament format
 
  - Match 1	Team 1 Vs Team 4
  - Match 2	Team 2 Vs Team 3
