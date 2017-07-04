@@ -29,6 +29,14 @@ No Discrimination, elder to younger, men to women, on that day we are a team aga
 Teams members are selected already, if you don't know your team please contact us.
 
 # Games
+ Point for each game and performances,
+
+  - Winners:          +10 points
+  - Runner Ups:       +5 points
+  - Participant:      +2 points
+  - No Participation: -10 points
+
+
 
 #### Tug of War
 ![Tug of War](https://photos.travelblog.org/Photos/28984/129630/f/900611-tug-of-war-the-indian-side-0.jpg){:class="img-responsive"}
