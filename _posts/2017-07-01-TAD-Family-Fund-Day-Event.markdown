@@ -20,7 +20,7 @@ image_path: /_images/
 No Discrimination, elder to younger, men to women, on that day we are a team against another Team
 
 ## Team Names
-  -  [Satavahanas](https://en.wikipedia.org/wiki/Satavahana_dynasty): Veer, Praveen, Vikas, Bakta, Gangaiah
+  -  [Satavahanas](https://en.wikipedia.org/wiki/Satavahana_dynasty): Veer, Praveen, Vikas, Prathi, Bakta, Gangaiah
   -  [Pallavas](https://en.wikipedia.org/wiki/Pallava_dynasty): Prakash, Santi Kishore, Vamshi Ram, Ashok, Bala
   -  [Cholas](https://en.wikipedia.org/wiki/Chola_dynasty): Vamsi Chitti, Ramesh, Madhu, Sanjeev, Ramki
   -  [Kakatiyas](https://en.wikipedia.org/wiki/Kakatiya_dynasty): Purna, Chaitanya , Vamsi Mohan ,Ravi, Satish
